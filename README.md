@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Matt-Ly-GitHub
-- 👀 I’m interested in Cloud Architecture and Best Practices
-- 🌱 I’m currently learning Cloud Project Implementations
-- 💞️ I’m looking to collaborate on Cloud Design Projects
-- 📫 How to reach me https://www.linkedin.com/in/matthew-ly-826a4424a
-
-<!---
-Matt-Ly-GitHub/Matt-Ly-GitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Microsoft Stack, Cloud Architecture and Best Practices
+- 🌱 I’m currently learning Azure administration. I am planning to take the AZ-104 Azure Administrator Exam soon in 2025! Best of luck to me!!🍀
+- 💞️ I’m looking to discuss and/or collaborate on interesting topics such as cloud adoption/migration and security best practices, or anythng IT 😊
+- 📫 How to reach me https://www.linkedin.com/in/matt-l-826a4424a/
+- 🖥️ My personal website https://matt-ly-github.github.io/portfolio.github.io/
